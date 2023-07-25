@@ -1,0 +1,8 @@
+F:\Day - 12\mergesort\mergesort\bin\Debug\mergesort.exe.config
+F:\Day - 12\mergesort\mergesort\bin\Debug\mergesort.exe
+F:\Day - 12\mergesort\mergesort\bin\Debug\mergesort.pdb
+F:\Day - 12\mergesort\mergesort\obj\Debug\mergesort.csproj.AssemblyReference.cache
+F:\Day - 12\mergesort\mergesort\obj\Debug\mergesort.csproj.SuggestedBindingRedirects.cache
+F:\Day - 12\mergesort\mergesort\obj\Debug\mergesort.csproj.CoreCompileInputs.cache
+F:\Day - 12\mergesort\mergesort\obj\Debug\mergesort.exe
+F:\Day - 12\mergesort\mergesort\obj\Debug\mergesort.pdb

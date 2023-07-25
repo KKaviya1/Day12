@@ -1,0 +1,8 @@
+F:\Day - 12\compare\compare\bin\Debug\compare.exe.config
+F:\Day - 12\compare\compare\bin\Debug\compare.exe
+F:\Day - 12\compare\compare\bin\Debug\compare.pdb
+F:\Day - 12\compare\compare\obj\Debug\compare.csproj.AssemblyReference.cache
+F:\Day - 12\compare\compare\obj\Debug\compare.csproj.SuggestedBindingRedirects.cache
+F:\Day - 12\compare\compare\obj\Debug\compare.csproj.CoreCompileInputs.cache
+F:\Day - 12\compare\compare\obj\Debug\compare.exe
+F:\Day - 12\compare\compare\obj\Debug\compare.pdb

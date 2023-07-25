@@ -1,0 +1,8 @@
+F:\Day - 12\shellsort\shellsort\bin\Debug\shellsort.exe.config
+F:\Day - 12\shellsort\shellsort\bin\Debug\shellsort.exe
+F:\Day - 12\shellsort\shellsort\bin\Debug\shellsort.pdb
+F:\Day - 12\shellsort\shellsort\obj\Debug\shellsort.csproj.AssemblyReference.cache
+F:\Day - 12\shellsort\shellsort\obj\Debug\shellsort.csproj.SuggestedBindingRedirects.cache
+F:\Day - 12\shellsort\shellsort\obj\Debug\shellsort.csproj.CoreCompileInputs.cache
+F:\Day - 12\shellsort\shellsort\obj\Debug\shellsort.exe
+F:\Day - 12\shellsort\shellsort\obj\Debug\shellsort.pdb

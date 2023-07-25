@@ -1,0 +1,8 @@
+F:\Day - 12\quicksort\quicksort\bin\Debug\quicksort.exe.config
+F:\Day - 12\quicksort\quicksort\bin\Debug\quicksort.exe
+F:\Day - 12\quicksort\quicksort\bin\Debug\quicksort.pdb
+F:\Day - 12\quicksort\quicksort\obj\Debug\quicksort.csproj.AssemblyReference.cache
+F:\Day - 12\quicksort\quicksort\obj\Debug\quicksort.csproj.SuggestedBindingRedirects.cache
+F:\Day - 12\quicksort\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+F:\Day - 12\quicksort\quicksort\obj\Debug\quicksort.exe
+F:\Day - 12\quicksort\quicksort\obj\Debug\quicksort.pdb
